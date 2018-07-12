@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+*.log
+
+.idea
+.gradle
+
+logs
+build
+database*
+unsaved-data
+
+walletstore
+src/main/resources/solcJ-all
+
+sampleDB*
+
+access.info
+
+.java-version
+
+# Local configuration
+**/user.conf
